@@ -1,16 +1,18 @@
-### Hi there 👋
+                            🤟 HI, My name is Johan and I`m Developer Junior!!!👌
+                            
+                              👨‍💻 here you can to see my proyect like developer💻
+        
 
-<!--
-**turmeque/turmeque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                              
+                              
+   ![image](https://user-images.githubusercontent.com/94276353/198192024-b6f80c6f-7c99-4da2-bb20-9f9170c543d3.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                       const Tecnologias adquiridas =[
+                   
+                       JAVASCRIPT,REACT JS,REDUX,NODE JS,SQL,POSTGRES,TYPESCRIPT,CSS,SASS
+            
+
+
+                                                 ]
+
