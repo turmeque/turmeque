@@ -1,6 +1,6 @@
                         🤟 HI, My name is Johan and I`m Developer Junior!!!👌
                             
-                         👨‍💻 here you can to see my proyect like developer💻
+                         👨‍💻 here you can to see my proyects like developer.....💻
         
 
                               
