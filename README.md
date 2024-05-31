@@ -10,6 +10,6 @@
 
                              const Tecnologias adquiridas =[
                    
-                JAVASCRIPT,REACT JS,REDUX,NODE JS,SQL,POSTGRES,TYPESCRIPT,CSS,SASS
+                JAVASCRIPT,REACT JS,REDUX,NODE JS,SQL,POSTGRES,TYPESCRIPT,CSS,SASS,c++ basic
                                           ]
 
